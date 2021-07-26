@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE05</string>
+    <string name="display_empty">No Books to Display</string>
+    <string name="todo">TODO</string>
+    <string name="ok">OK</string>
+    <string name="get_books">Please connect to the internet to get books!</string>
+
+</resources>
